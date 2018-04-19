@@ -7,3 +7,6 @@ It will be very helpful to have seen a little bit of Javascript before you start
 Both the resources we have already used (Codecademy and Free Code Camp) have Javascript lessons available.
 
 If you don't know where to start, try this lesson from Codecademy: <a href="https://www.codecademy.com/learn/introduction-to-javascript">Introduction To JavaScript</a>
+
+## You know the drill...
+Once you've finished the challenge, post it to slack!
