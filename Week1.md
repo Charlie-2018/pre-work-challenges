@@ -1,4 +1,4 @@
-Start With the Basics
+# Start With the Basics
 
 We want to use your time in class as efficiently as possible, so we expect that you know the basics of HTML and CSS when you start class. To get ramped up on the basics of these two essential web technologies quickly, sign up for a codecademy account and try some of the HTML classes. They are short, fun, and a great way to prepare for the class.
 
