@@ -6,7 +6,8 @@ This week, we are going to explore another resource that will be helpful in gett
 
 Free Code Camp has a ton of interactive tutorials. Sign up for a free account and go through some of the HTML/CSS lessons.
 
-### Don't forget to post in the class slack channel when you've completed a lesson! See how far you and your classmates can get in the challenges.
+### Don't forget to post in the class slack channel when you've completed a lesson! 
+Share your progress and see how far you and your classmates can get in the free code camp challenges.
 
 ## What next?
 Some of you might be thinking, "there's so much out there, how much do I need to know?" - and that's a great question. Here is a general list of HTML and CSS questions you should be able to answer:
