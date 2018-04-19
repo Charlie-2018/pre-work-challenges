@@ -10,3 +10,9 @@ If you don't know where to start, try this lesson from Codecademy: <a href="http
 
 ## You know the drill...
 Once you've finished the challenge, post it to slack!
+
+## What else can you do?
+Great question! Take a look at the resources repository for lists of newsletters, podcasts, guides, tutorials, etc.. that can help you get started. 
+
+## Have a great resource you'd like to share?
+You have been made an admin in this organization and can make edits to files! Click the edit icon in the top right hand side of the document to go into edit mode. Your change will be put up for approval before it goes live. 
