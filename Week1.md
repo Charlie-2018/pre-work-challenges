@@ -9,20 +9,3 @@ Once you've completed the Learn HTML course from codecademy -- celebrate it!! Ce
  
 And let us celebrate with you! Post your accomplishment in the class slack channel. It will help encourage your future classmates to do the same. You can also get help by asking questions in your class channel, where an instructor will see your message and respond. 
 
-## What next?
-Some of you might be thinking, "there's so much out there, how much do I need to know?" - and that's a great question. Here is a general list of HTML and CSS questions you should be able to answer:
-
-### HTML/CSS Review Questions
-
-#### What does HTML stand for?
-#### What does CSS do?
-#### How do you create an HTML page?
-#### What are the HTML body and head tags?
-#### How do you recognize an HTML self closing tag?
-#### How do you create a comment in HTML? In CSS?
-#### What are the tags h1 - h6 for?
-#### HTML block level vs inline elements, can you explain the difference?
-#### How do you use CSS classes and ids? When would you use one over another?
-#### Play around with the basic CSS selectors.
-#### How do you connect an HTML and CSS sheet?
-#### What is semantic HTML?
